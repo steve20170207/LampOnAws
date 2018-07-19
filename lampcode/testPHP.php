@@ -13,7 +13,7 @@ public function testGreet() {
 $result=$this->welcome->greeting();
 echo "the real result is ";
 #echo $result;
-$this->assertEquals("welcome to DevOps",$result);
+$this->assertEquals("welcome to DevOps2",$result);
 
 }
 }
