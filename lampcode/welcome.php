@@ -1,7 +1,7 @@
 <?php
   class welcome {
    function greeting(){
-  return "welcome to DevOps1";
+  return "welcome to DevOps2";
 }
 
 }
